@@ -1,8 +1,5 @@
 # Smart-Snake
 This Repo. contains snake game for Ai course.
-<br>
-### Programming Language:
-C#
 
 
 <br><br>
@@ -16,3 +13,9 @@ each time the snake eats the apple it will increase in its height.
 AI is used in this game to make snake moves without user intervention.<br>
 Snake will search quickly for the shortest path to the apple without damage. 
 
+
+<br><br>
+### Programming Language & frameworks used:
+- C#
+- Unity tools
+- .net framework
