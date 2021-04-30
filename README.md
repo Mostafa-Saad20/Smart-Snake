@@ -14,5 +14,5 @@ each time the snake eats the apple it will increase in its height.
 <br><br>
 ### AI in Game:
 AI is used in this game to make snake moves without user intervention.<br>
-Snake will search quickly for the shortest path for the apple without damage. 
+Snake will search quickly for the shortest path to the apple without damage. 
 
