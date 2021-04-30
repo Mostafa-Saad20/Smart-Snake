@@ -1,5 +1,5 @@
 # Smart-Snake
-This Repo. contains snake game for Ai course.
+<h4>This Repo. contains snake game for Ai course.</h4>
 <br>
 ### Programming Language:
 C#
