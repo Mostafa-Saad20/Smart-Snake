@@ -16,6 +16,6 @@ Snake will search quickly for the shortest path to the apple without damage.
 
 <br><br>
 ### Programming Language & frameworks used:
-- C#
-- Windows Forms
-- .net framework
+- HTML
+- CSS
+- JavaScript
