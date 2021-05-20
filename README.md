@@ -1,5 +1,4 @@
 # Smart-Snake
-This Repo. contains a snake game.<br>
 
 ### Game Description *in a nutshell*:
 move the Snake to reach the Apple and get more score, without hitting the game borders or hit the snake with itself <br>
