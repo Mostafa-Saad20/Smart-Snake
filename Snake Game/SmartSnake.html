@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<title>Smart Snake</title>
+    <link rel="stylesheet" href="Styles.css">
+    
+  </head>
+
+  <body id="body">
+
+    <span id="Mode">Mode:</span> 
+    <input type="button" value="Night" id="night" onclick="night()">
+    <input type="button" value="Light" id="light" onclick="light()">
+    
+    <br><br>
+
+    <h1 id="high_score"></h1>
+    
+    <div id="Game">
+      <div id="score_txt" hidden> 
+        Score: <span id="score" > 0 </span> 
+      </div>
+        
+      <canvas id="snakeboard" width="400" height="400"></canvas>
+      
+      <br></br>
+
+      <center>
+        <img src="GameAssets/Textures/86adbb2af271.jpg" width="550px" height="400px" id="snake_img">
+        <br>
+        <input type="button" name="Start" id="start" value="Start" onclick="start_game()">
+      </center>
+    </div>
+    
+
+    
+
+
+
+
+
+
+  </body>
+    
+  <script src="Script.js"></script>
+
+</html>

@@ -1,0 +1,40 @@
+body {
+background-color: bisque;
+
+}
+
+#Game {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+
+  #score_txt {
+    font-size: 20px; font-family:'Lucida Sans';
+    padding-top: 100px;
+    padding-right: 330px;
+  }
+
+#night, #light{
+  padding:5px;
+  
+}
+
+#Mode{
+  padding:5px
+}
+
+#start{
+  padding:5px; margin-bottom: 270px;
+  width:120px; height: 50px;
+  border-radius: 20px; border:none;
+  font-size:20px; font-weight: bold;
+  background-color: #4d3319; color:white;
+
+}
+#snake_img{
+  margin-bottom: 70px;
+}
